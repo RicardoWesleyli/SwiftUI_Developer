@@ -1,3 +1,5 @@
+简体中文 ｜ [English](https://github.com/RicardoWesleyli/SwiftUI_Developer/blob/main/README.md)
+
 ### 内容提要
 
 本书从实战案例出发，系统性地讲解Swift+SwiftUI 开发的全过程，全书内容丰富且实用性强，旨在帮助读者快速上手学习。
