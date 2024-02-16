@@ -1,4 +1,4 @@
-[简体中文](https://github.com/RicardoWesleyli/SwiftUI_Developer/blob/main/README.md) | English
+[简体中文](https://github.com/RicardoWesleyli/SwiftUI_Developer/blob/main/README_CN.md) | English
 
 ### Summary
 
